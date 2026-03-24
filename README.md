@@ -1,6 +1,6 @@
-# whatsapp-mcp
+# whatsapp
 
-A WhatsApp MCP server that connects Claude (or Cursor) to your personal WhatsApp account — read messages, search contacts, and send texts or media.
+This is a WhatsApp MCP server that connects Claude (or Cursor) to your personal WhatsApp account — read messages, search contacts, and send texts or media.
 
 > **Note:** Like most MCP servers, this is vulnerable to [prompt injection attacks](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) that could expose private data.
 
